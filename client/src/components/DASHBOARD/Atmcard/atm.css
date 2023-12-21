@@ -1,0 +1,40 @@
+.atmcard {
+  width: 24rem;
+  height: 24rem;
+  /* background-image: url("../../../../public/imges/atm1.svg"); */
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  background-size: 100%;
+  border: none;
+  color: #fff;
+}
+
+.atmcard.card.aos-init.aos-animate {
+  background: #f9f9f9;
+}
+
+.mainAtmDiv {
+  position: relative;
+}
+
+.changeatm {
+  width: 3rem;
+  position: absolute;
+  bottom: 4.9rem;
+  left: 11rem;
+  cursor: pointer;
+}
+.shadowimg {
+  position: absolute;
+  bottom: 4.7rem;
+  width: 25vw;
+}
+
+.holdername {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+  color: rgba(255, 255, 255, 0.5);
+}

@@ -1,0 +1,30 @@
+.headingDiposite {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 20px;
+  color: #000000;
+}
+.btn1 {
+  border: none;
+  padding: 10px 20px;
+  background: #fff;
+}
+
+.active {
+  background: #1eaae7;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 19px;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.tableblockdash {
+  max-height: 420px;
+  overflow: auto;
+}
